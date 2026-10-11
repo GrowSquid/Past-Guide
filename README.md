@@ -6,7 +6,7 @@ An interactive website with minimal spoilers of the story
 ## how to use it
 Run the html code, or open the website directly:
 
-https://past-aquamarine-eap7srmm.edgeone.dev/
+https://enchanting-beige-z1dhdrja.edgeone.dev/
 
 ## how it works
 The guide is stored as a list of screens with some text and buttons
